@@ -15,7 +15,6 @@ func main() {
 	fmt.Println(notafinal)
 
 	//cuidado...
-
 	fmt.Println("Teste " + string(123)) // codigo tabela ASC
 
 	//int para string
